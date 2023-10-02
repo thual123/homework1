@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Remote repositories are versions of your project that are hosted on the Internet or network somewhere.
 source : https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes#:~:text=Remote%20repositories%20are%20versions%20of,the%20Internet%20or%20network%20somewhere.
+=======
+merge preserves history, rebase rewrites it : source https://blog.git-init.com/differences-between-git-merge-and-rebase-and-why-you-should-care/#:~:text=Reading%20the%20official%20Git%20manual,it%20happened%2C%20rebase%20rewrites%20it.
+>>>>>>> progress
