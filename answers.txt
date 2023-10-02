@@ -1,0 +1,1 @@
+merge preserves history, rebase rewrites it : source https://blog.git-init.com/differences-between-git-merge-and-rebase-and-why-you-should-care/#:~:text=Reading%20the%20official%20Git%20manual,it%20happened%2C%20rebase%20rewrites%20it.
